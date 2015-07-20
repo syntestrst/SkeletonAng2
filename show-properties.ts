@@ -21,6 +21,7 @@ import {Component, View, bootstrap} from 'angular2/angular2';
     directives: [For]
 })
 
+
 class DisplayComponent {
     myName: string;
     names: Array<string>;
